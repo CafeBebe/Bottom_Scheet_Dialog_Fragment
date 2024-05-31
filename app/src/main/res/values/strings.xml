@@ -3,6 +3,17 @@
 
 
 
+    <string name="my_name">Name</string>
+    <string name="details">Details</string>
+    <string name="my">MY</string>
+    <string name="released">1991</string>
+    <string name="rating">9</string>
+
+
+
+    <string name="height">184</string>
+    <string name="hobby">bicycle</string>
+    <string name="weight">75</string>
 
 
 
